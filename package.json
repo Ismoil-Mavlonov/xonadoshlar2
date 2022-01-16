@@ -1,0 +1,12 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "bu yangi bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["bot", "telegram-bot"],
+  "author": "Ismoil Mavlonov",
+  "license": "ISC"
+}
